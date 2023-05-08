@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolioweb/static/css/main.e7abd582.css",
+    "main.js": "/portfolioweb/static/js/main.b7b9b807.js",
+    "static/media/lottery.png": "/portfolioweb/static/media/lottery.6175a73183144adcff55.png",
+    "static/media/keeper.png": "/portfolioweb/static/media/keeper.f64f554b1ac71d8d7ef2.png",
+    "static/media/wisdom.png": "/portfolioweb/static/media/wisdom.cc14444e518dc13792a6.png",
+    "static/media/CRYPTO.png": "/portfolioweb/static/media/CRYPTO.ae5cd07df40cc23fc4d6.png",
+    "static/media/bud.png": "/portfolioweb/static/media/bud.c1b7ce93e0246720f674.png",
+    "static/media/exp.png": "/portfolioweb/static/media/exp.ab31dc15b76c4001a3d3.png",
+    "static/media/logo.svg": "/portfolioweb/static/media/logo.0b891117101bbfedeceba85ac5355c82.svg",
+    "static/media/github.png": "/portfolioweb/static/media/github.54630180d7555116a203.png",
+    "static/media/twitter.png": "/portfolioweb/static/media/twitter.e1f7e7cfdd712ed92669.png",
+    "static/media/gfg.png": "/portfolioweb/static/media/gfg.8828f8a9d0b620e83e0f.png",
+    "index.html": "/portfolioweb/index.html",
+    "static/media/wave.svg": "/portfolioweb/static/media/wave.c5d105e07a0d6c9efad72e624176d800.svg",
+    "main.e7abd582.css.map": "/portfolioweb/static/css/main.e7abd582.css.map",
+    "main.b7b9b807.js.map": "/portfolioweb/static/js/main.b7b9b807.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7abd582.css",
+    "static/js/main.b7b9b807.js"
+  ]
+}
